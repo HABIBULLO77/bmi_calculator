@@ -4,7 +4,8 @@ A new Flutter application.
 
 ## Getting Started
 
-#This is BMI Calculator wiith awesome design
+#This is BMI Calculator with awesome design
+#dark theme
 
 - [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
 - [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
